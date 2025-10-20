@@ -12,12 +12,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.44.1",
+    "@playwright/test": "^1.56.1",
     "@types/node": "^20.14.2",
     "eslint": "^9.23.0",
     "globals": "^16.0.0"
   },
   "dependencies": {
-    "playwright": "^1.51.1"
+    "playwright": "^1.56.1"
   }
 }
